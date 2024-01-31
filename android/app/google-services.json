@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370189545271",
+    "project_id": "video-hub-64bb9",
+    "storage_bucket": "video-hub-64bb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370189545271:android:e0578250ffa28f91a534b2",
+        "android_client_info": {
+          "package_name": "com.example.internshala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW9IKpV7yni5jKLvo6XBsXyGNQlA8ceXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
